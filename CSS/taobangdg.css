@@ -1,0 +1,39 @@
+.left{
+    float: left;
+    padding-left: 150px;
+}
+.right{
+    float: right;
+    padding-right: 200px;
+}
+table{
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 1000px;
+    height: 150px;
+    position: absolute;
+    margin-left: 148px;
+    margin-top: 18px;
+
+}
+td,th{
+    border: 1px solid #dddddd;
+
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: darkblue;
+}
+form{
+    position: relative;
+}
+table{
+
+}
+span{
+    color: cadetblue;
+}
+th{
+    background-color: yellow;
+}

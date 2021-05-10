@@ -1,0 +1,41 @@
+li{
+    list-style: none;
+    padding-top: 5px;
+    margin-top: 5px;
+}
+.select{
+    margin-top: 5px;
+
+}
+.option{
+    width: 300px;
+    height: 30px;
+}
+.table {
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    border-right: none;
+    nth-child(odd )
+    background: red;
+
+
+
+}
+.tb-header{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black ;
+}
+.tb{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black ;
+}
+.tb.b{
+    border-bottom: none;
+}
+.submit{
+    padding-top: 10px;
+}
+td{
+    text-align: center;
+}
