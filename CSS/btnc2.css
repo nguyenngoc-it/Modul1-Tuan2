@@ -2,10 +2,39 @@ table{
 
     border-collapse: collapse;
 
+    width: 900px;
+    text-align: center;
+
 }
-td{ 
+td{
     border: 1px solid black;
     width: 50px;
     height: 50px;
 }
-h2{ text-align: center}
+h2
+{ text-align: center}
+form{
+    position: relative;
+}
+table{
+    position: absolute;
+}
+
+body{
+    width: 900px;
+    margin: 0 auto;
+}
+.border{
+border: none;
+    /*border : hidden!important;*/
+
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.yello{
+    background-color: darkorange;
+}
